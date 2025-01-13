@@ -1198,7 +1198,7 @@ picture {
   transition: all 0.5s ease-in;
 }
 
-.work-container:hover > .title_text_box {
+.work-container:hover> .title_text_box {
   -webkit-transform: translate(0%);
       -ms-transform: translate(0%);
           transform: translate(0%);
